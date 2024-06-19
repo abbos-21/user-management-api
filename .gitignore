@@ -3,6 +3,3 @@ node_modules/
 
 # .rest files
 *.rest
-
-# Environment variable file
-*.env
