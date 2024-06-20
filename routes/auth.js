@@ -50,7 +50,7 @@ const JWT_SECRET = process.env.JWT_SECRET;
 
 /**
  * @swagger
- * /auth:
+ * /api/auth:
  *   post:
  *     summary: Login a user
  *     tags: [Auth]

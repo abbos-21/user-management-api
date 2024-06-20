@@ -12,7 +12,7 @@ const router = express.Router();
 
 /**
  * @swagger
- * /info/users:
+ * /api/info/users:
  *   get:
  *     summary: Retrieve a list of users or a user by email
  *     tags: [Info]
